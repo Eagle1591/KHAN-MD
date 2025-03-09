@@ -39,16 +39,26 @@ KHAN-MD BY JawadTechX 💜
   <a href="https://github.com/JawadYTX/KHAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
---------------------------
-- **ANTI-DELETED 🚀**
-- **ANTI-VIEWONCE 🚀**
-- **AUTO-UPDATE 🚀**
-- **AUTO_VOICE 🚀**
-- **AUTO_STICKER 🚀**
-- **AUTO_REPLY 🚀**
-- **ALWAYS_ONLINE_OFFLINE 🚀**
-- **STATUS_REPLY_REACT 🚀**
-- © **POWERD BY JAWADTECHX**
+---
+
+## 🇵🇰 *KHAN MD FEATURES*
+```diff
+🔹QURAN MENU ✅
+🔹ANTI-DELETED ✅
+🔹ANTI-VIEWONCE ✅
+🔹ANTILINK ✅    
+🔹ALL DOWNLOADER ✅
+🔹AUTO-UPDATE ✅
+🔹AUTO_VOICE ✅
+🔹AUTO_STICKER ✅
+🔹AUTO_REPLY ✅
+🔹ALWAYS_ONLINE OF/ON ✅
+🔹STATUS_REPLY ✅
+🔹STATUS_REACT ✅
+🔹ANTI HEROKU BAN ✅ 
+🔹ALL IN ONE BOT ✅
+🔹POWERD BY JAWADTECHX 🇵🇰
+```
 
 ---------
 
